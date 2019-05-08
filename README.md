@@ -1,2 +1,3 @@
 # hello-world
-data science
+
+Commit changes exercise
